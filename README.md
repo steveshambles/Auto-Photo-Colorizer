@@ -38,3 +38,5 @@ pts_in_hull.npy
 
 APC homepage:
 
+https://stevepython.wordpress.com/2019/12/12/auto-photo-colorizer-update
+
