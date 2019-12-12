@@ -1,5 +1,6 @@
 # Auto-Photo-Colorizer
 Python GUI to colorize black and white photos easily.
+For Windows and Linux.
 
 ![Alt text](https://stevepython.files.wordpress.com/2019/12/apc-v1-screenshot.png "Optional title")
 
