@@ -40,3 +40,7 @@ APC homepage:
 
 https://stevepython.wordpress.com/2019/12/12/auto-photo-colorizer-update
 
+V1.3 added:
+I need help to add an option to colorize a folder of images automatically.
+
+
