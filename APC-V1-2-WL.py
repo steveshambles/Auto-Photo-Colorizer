@@ -21,7 +21,7 @@ https://github.com/steveshambles/Auto-Photo-Colorizer
 V1-2-Changed get misssing files from dropbox to github.
      Message in title bars of images about temp aspect ratio.
 
-V1.1-resized image displays to be 640x480 default, no aspect ration yet,
+V1.1-resized image displays to be 640x480 default, no aspect ratio yet,
      when saved it is original size though.
      Corrected bad spacing in help text pop up.
      pycodestyle linted.
