@@ -5,11 +5,11 @@ For Windows and Linux.
 ![Alt text](https://stevepython.files.wordpress.com/2019/12/apc-v1-screenshot.png "Optional title")
 
 
-Auto Photo colourizer v1-0-WL
+Auto Photo colourizer v1-4-WL
 
 For Windows and Linux
 
-By Steve Shambles. Updated Dec 12th 2019
+By Steve Shambles. Updated June 16th 2020
 
 stevepython.wordpress.com
 
@@ -40,7 +40,9 @@ APC homepage:
 
 https://stevepython.wordpress.com/2019/12/12/auto-photo-colorizer-update
 
-V1.3 added:
-I need help to add an option to colorize a folder of images automatically.
+V1.4 added:
+
+Batch convert folder of images.
+
 
 
