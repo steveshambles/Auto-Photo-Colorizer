@@ -40,9 +40,22 @@ APC homepage:
 
 https://stevepython.wordpress.com/2019/12/12/auto-photo-colorizer-update
 
-V1.4 added:
+V1-4-Added option in menu to convert a folder of images automatically.
 
-Batch convert folder of images.
 
+V1-3-replaced pop up box with custom non blocking popup during colorizing.
+     centered main gui on screen.
+     centred custom msg box on screen.
+     convert img to gray frst in case sepia or something dodgy like that.
+
+
+V1-2-Changed get missing files from dropbox to github.
+     Message in title bars of images about temp aspect ratio.
+
+
+V1.1-resized image displays to be 640x480 default, no aspect ratio yet,
+     when saved it is original size though.
+     Corrected bad spacing in help text pop up.
+     pycodestyle linted.
 
 
