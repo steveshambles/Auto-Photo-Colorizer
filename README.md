@@ -4,8 +4,7 @@ For Windows.
 
 Problems with Linux version at the moment.
 
-![Alt text](https://stevepython.files.wordpress.com/2020/06/auto-photo-colourizer-v1-5w-logo.png")
-
+https://stevepython.files.wordpress.com/2020/06/auto-photo-colourizer-v1-5w-logo.png
 
 
 Auto Photo colourizer v1-5-W
