@@ -7,9 +7,9 @@ Problems with Linux version at the moment.
 ![Alt text](https://stevepython.files.wordpress.com/2019/12/apc-v1-screenshot.png "Optional title")
 
 
-Auto Photo colourizer v1-4-WL
+Auto Photo colourizer v1-5-W
 
-By Steve Shambles. Updated June 16th 2020
+By Steve Shambles. Updated June 17th 2020
 
 stevepython.wordpress.com
 
@@ -39,6 +39,9 @@ pts_in_hull.npy
 APC homepage:
 
 https://stevepython.wordpress.com/2019/12/12/auto-photo-colorizer-update
+
+V1-5-Inserted donate option and source code link
+
 
 V1-4-Added option in menu to convert a folder of images automatically.
 
