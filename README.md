@@ -1,8 +1,8 @@
 # Auto-Photo-Colorizer
 Python GUI to colorize black and white photos easily.
-For Windows.
+For Windows. Problems with Linux version at the moment.
 
-Problems with Linux version at the moment.
+
 ![Alt text](https://stevepython.files.wordpress.com/2020/06/auto-photo-colourizer-v1-5w-logo.png "Optional title")
 
 
@@ -15,7 +15,7 @@ stevepython.wordpress.com
 
 
 Requirements:
-
+--------------
 pip3 install matplotlib
 
 pip3 install numpy
@@ -26,7 +26,7 @@ pip3 install pillow
 
 
 files in root dir:
-
+------------------
 colorization_deploy_v2.prototxt
 
 colorization_release_v2.caffemodel
@@ -36,7 +36,7 @@ pc-panel-280x105.png
 pts_in_hull.npy
 
 APC homepage:
-
+-------------
 https://stevepython.wordpress.com/2020/06/17/auto-photo-colorizer-v1-5w
 
 V1-5-Inserted donate option and source code link
