@@ -4,7 +4,7 @@ For Windows.
 
 Problems with Linux version at the moment.
 
-![Alt text](https://stevepython.files.wordpress.com/2019/12/apc-v1-screenshot.png "Optional title")
+![Alt text](https://stevepython.files.wordpress.com/2020/06/auto-photo-colourizer-v1-5w-logo.png")
 
 
 Auto Photo colourizer v1-5-W
@@ -38,7 +38,7 @@ pts_in_hull.npy
 
 APC homepage:
 
-https://stevepython.wordpress.com/2019/12/12/auto-photo-colorizer-update
+https://stevepython.wordpress.com/2020/06/17/auto-photo-colorizer-v1-5w
 
 V1-5-Inserted donate option and source code link
 
