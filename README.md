@@ -6,9 +6,9 @@ For Windows. Problems with Linux version at the moment.
 ![Alt text](https://stevepython.files.wordpress.com/2020/06/auto-photo-colourizer-v1-5w-logo.png "Optional title")
 
 
-Auto Photo colourizer v1-5-W
+Auto Photo colourizer v1-51-W
 
-By Steve Shambles. Updated June 17th 2020
+By Steve Shambles. Updated June 18th 2020
 
 stevepython.wordpress.com
 
@@ -38,6 +38,14 @@ pts_in_hull.npy
 APC homepage:
 -------------
 https://stevepython.wordpress.com/2020/06/17/auto-photo-colorizer-v1-5w
+
+
+V1.51-Made sure only jpg,png and bmp files get processed.
+
+Lots of idiot checks implemented.
+
+Proper exit on clicking x on prg window.
+
 
 V1-5-Inserted donate option and source code link
 
