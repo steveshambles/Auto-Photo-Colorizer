@@ -2,14 +2,19 @@ How To Use Auto Photo Colourizer
 --------------------------------
 1-First click on the "LOAD IMAGE" button. 
 
-2-From the file selector pick a black and white
-jpg, png or bmp image from your drive.
+2-From the file selector offered pick a black 
+and white jpg, png or bmp image from your drive.
 
-3-Once your image is loaded and displayed 
+3-Once your image has loaded and displayed 
 click on the "COLOURIZE" button and wait. 
 
-4-After colourization has completed, and the co
-lour image is displayed alongside the original.
+Note: images are temporarily resized 
+for screen size convienence and may sometimes 
+look odd, but don't worry, they will be saved
+in their original dimensions after being colourized.
+
+4-After colourization has completed the colour image 
+is displayed alongside the original.
  
 5-Click on the "SAVE IMAGE" button to save the 
 colourized image. Or you can close the image windows
@@ -17,7 +22,7 @@ and load in your next image without saving.
 
 Most colourized images will benefit from touching 
 up or recolourling in a program like Photoshop
-for best results, APC has done the hard work of
+for best results. APC has done the hard work of
 defining the areas to colour for you.
 
 Batch Operation
@@ -39,20 +44,23 @@ Your original photos will not be changed or deleted.
 
 Notes:
 ------
+Some very large photos may not be colourized
+due to memory usage, it depends how much memory
+your computer (or graphics card) has.
+
 The A.I algo used in APC is far from perfect.
-Most of the time the outcome of colourization is not
-good enough.
+Often the outcome of colourization is not good enough.
 
 It appears that the A.I has been well trained for outdoor
-photos containing people, these type of scenes usually 
-work out the best.
+photos containing people or animals, these type of
+scenes usually  work out the best in APC.
 
 I am hoping an update to the algo will one day be released,
 and if so, I will try to implement it in the following version
 of APC.
 
 In the meantime a lot of fun can be had colouring in as 
-many of those old black and white family photos,
-for free. Enjoy.
+many of those old black and white family photos, as you want,
+for free. So enjoy.
 
 Steve Shambles Nov 2020
