@@ -14,7 +14,6 @@ stevepython.wordpress.com
 pyshambles.blogspot.com
 
 
-
 Requirements:
 --------------
 pip3 install matplotlib
@@ -30,11 +29,25 @@ files in root dir:
 ------------------
 colorization_deploy_v2.prototxt
 
-colorization_release_v2.caffemodel (not supplied here, too big, 122mb)
-
 pc-panel-340x125.png
 
 pts_in_hull.npy
+
+load-img-btn.png
+
+save-img-btn.png
+
+colourize-btn.png
+
+apc-help.txt
+
+colorization_release_v2.caffemodel (not supplied here, too big, 122mb)
+
+Download caffemodel zipped with source etc here:
+
+http://www.mediafire.com/file/ali2o2uexefombo/APC+V1-60-source.zip/file
+
+Use adblocker.No charge.
 
 APC homepage:
 -------------
