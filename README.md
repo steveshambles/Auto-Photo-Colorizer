@@ -3,7 +3,7 @@ Python GUI to colorize black and white photos easily.
 For Windows 7-10.
 
 
-![Alt text](https://stevepython.files.wordpress.com/2020/06/auto-photo-colourizer-v1-5w-logo.png "Optional title")
+![Alt text](https://i.postimg.cc/FFfFq0Jd/screenshot-2020-11-05-at-02-25-16.png "Optional title")
 
 
 Auto Photo colourizer v1-60
