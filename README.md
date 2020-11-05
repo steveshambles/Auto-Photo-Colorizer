@@ -49,6 +49,10 @@ http://www.mediafire.com/file/ali2o2uexefombo/APC+V1-60-source.zip/file
 
 Use adblocker. There is no no charge for downloading.
 
+Alternatively, download full zip including portable Windows executable:
+
+http://www.mediafire.com/file/gs9x2lf2t1at97l/APC+V1-60-win-exe-source.zip/file
+
 
 APC homepage:
 -------------
