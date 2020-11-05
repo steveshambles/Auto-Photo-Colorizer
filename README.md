@@ -59,7 +59,7 @@ http://www.mediafire.com/file/gs9x2lf2t1at97l/APC+V1-60-win-exe-source.zip/file
 
 APC homepage:
 -------------
-TBA
+https://pyshambles.blogspot.com/2020/11/auto-photo-colourizer-v160.html
 
 
 V1-60 log:
