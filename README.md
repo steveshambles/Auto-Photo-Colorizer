@@ -47,7 +47,8 @@ Download caffemodel zipped with source etc here:
 
 http://www.mediafire.com/file/ali2o2uexefombo/APC+V1-60-source.zip/file
 
-Use adblocker.No charge.
+Use adblocker. There is no no charge for downloading.
+
 
 APC homepage:
 -------------
